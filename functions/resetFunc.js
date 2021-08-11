@@ -46,7 +46,7 @@
       return { status: 'fail' };
     };
 
-    The uncommented function below is just a placeholder and will result in failure.
+    The uncommented function below is just a placeholder and will result in failure. TEST
   */
 
   exports = ({ token, tokenId, username, password }) => {
