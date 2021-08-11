@@ -1,6 +1,6 @@
 {
     "collection": "InventoryItem",
-    "database": "%(%%environment.values.databaseName)",
+    "database": "InventoryDemo",
     "roles": [
         {
             "name": "default",
